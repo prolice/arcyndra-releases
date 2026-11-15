@@ -10,7 +10,7 @@ Each release contains self-contained packages, nothing to install:
 | ARCYNDRA CAD | `ARCYNDRA-CAD-<version>-win-x64.zip` | `ARCYNDRA-CAD-<version>-linux-x64.tar.gz` |
 | ARCYNDRA Viewer | `ARCYNDRA-Viewer-<version>-win-x64.zip` | `ARCYNDRA-Viewer-<version>-linux-x64.tar.gz` |
 
-`SHA256SUMS.txt` lists the SHA-256 of every file. Preview builds are not signed yet: Windows may show
+`SHA256SUMS*.txt` list the SHA-256 of every file. Preview builds are not signed yet: Windows may show
 "Windows protected your PC" (More info → Run anyway); on Linux, make the program executable with `chmod +x`.
 
 Releases are published automatically by the build workflows of the private repository.
